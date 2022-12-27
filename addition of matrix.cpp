@@ -30,7 +30,9 @@ int main(){
         }
         cout<<endl;
     }
-
+    
+    cout<<"The addtion of above two matrices is "<<enld;
+    
     for (i = 0 ; i < r; ++i){
         for(j = 0; j < c; ++j){
             cout<<d[i][j]<<" ";
