@@ -1,4 +1,4 @@
-//Addition of two square matrix
+//substraction of two square matrix
 #include <iostream>
 using namespace std;
 
