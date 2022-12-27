@@ -32,7 +32,9 @@ int main(){
             }
         }
     }
-
+    
+    cout<<"The multiplication of above given two matrices is "<<enl;
+    
     for (i = 0 ; i < r; ++i){
         for(j = 0; j < c; ++j){
             cout<<d[i][j]<<" ";
